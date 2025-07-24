@@ -1,5 +1,5 @@
-repository-name
-# Repository Name
+dependency-management
+# Dependency Management
 
 > Slugline
 
