@@ -17,7 +17,7 @@ dependency-management
 
 **Executive Summary**
 
-Text
+[Faddom](https://faddom.com/) offers a free for life community edition of its agentless application discovery and dependency mapping software.
 
 Generated with [Rytr](https://app.rytr.me)
 
