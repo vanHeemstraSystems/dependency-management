@@ -1,7 +1,7 @@
 dependency-management
 # Dependency Management
 
-> Slugline
+>  Real-time visibility into your hybrid IT environment, enabling you to gain actionable insights in less than 60 minutes. Streamline your operations and optimize your infrastructure with a platform designed for strategic decision-making and efficiency, all while enhancing your security posture.
 
 - [DNS](./DNS.md)
 - [Documentation](./DOCUMENTATION.md)
